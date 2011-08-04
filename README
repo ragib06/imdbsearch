@@ -1,0 +1,6 @@
+This script fetches the movie information from imdb site.
+
+USAGE:
+
+	echo "Titanic" | python imdbsearch.py
+	echo "Titanic" | python imdbsearch.py "out.csv"
